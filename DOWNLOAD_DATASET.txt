@@ -1,9 +1,0 @@
-DATASET SOURCE
-
-Kaggle: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
-
-The dataset used for this project is the 1,000-row Supermarket Sales dataset with 17 columns.
-Download the CSV from Kaggle and save it in this folder as: supermarket_sales.csv
-
-A public mirror is also referenced in the notebook for convenience:
-https://github.com/sushantag9/Supermarket-Sales-Data-Analysis/raw/refs/heads/master/supermarket_sales%20-%20Sheet1.csv
